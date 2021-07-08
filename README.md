@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divyanshuhub
 - 👀 I’m interested in Machine Learning, Deep Learning, Data Science, Data Analysis, Python & Computer vison
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Projects based on Deep Learning
+- 💞️ I’m looking to collaborate on Projects based on Data Science - Machine learning & Deep Learning specifically
 - 📫 How to reach me - div.awasthi01@gmail.com or http://www.linkedin.com/divdev7
 
 <!---
